@@ -1,0 +1,44 @@
+{
+
+  "name": "tp-wik-dps-tp01",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "index.js",
+
+  "scripts": {
+    "start": "node dist/server.js",
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "devDependencies": {
+
+    "@types/node": "^20.8.3",
+
+    "typescript": "^5.2.2",
+
+    "typescripte": "^1.0.0"
+
+  },
+
+  "dependencies": {
+
+    "dotenv": "^16.3.1",
+
+    "express": "^4.18.2"
+
+  }
+
+}
+
